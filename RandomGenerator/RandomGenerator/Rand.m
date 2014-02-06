@@ -18,7 +18,7 @@
 
 - (IBAction)seed:(id)sender {
     srandom((unsigned)time(NULL));
-    [textField setStringValue:@"Seed generated"];
+    [textField setStringValue:@"Seed generated number"];
     [genButton setEnabled:YES];
     
 }
