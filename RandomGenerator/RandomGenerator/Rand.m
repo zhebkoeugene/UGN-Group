@@ -4,7 +4,7 @@
 //
 //  Created by Zhebko Eugene on 05.02.14.
 //  Copyright (c) 2014 Zhebko Eugene. All rights reserved.
-//  Test project
+//  Test project, work with some code, classes
 
 #import "Rand.h"
 
